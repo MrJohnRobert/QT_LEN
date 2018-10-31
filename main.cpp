@@ -16,7 +16,8 @@ int main(int argc, char *argv[])
 
 //    to set your account's default identity.
 //    Omit --global to set the identity only in this repository.
-  //  解决办法 https://blog.csdn.net/coco_wonderful/article/details/51822143
+ //  解决办法 https://blog.csdn.net/coco_wonderful/article/details/51822143
+    //
 
 
     return a.exec();
